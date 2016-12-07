@@ -4,17 +4,42 @@ date: '2016-06-01 23:12:29'
 categories: []
 layout: post
 author: hugocarreira
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in
-  orci tristique, tempus nulla vel, varius neque. Vestibulum lobortis laoreet lobortis.
-  Aenean at quam semper, aliquet enim a, placerat sapien. Morbi tortor leo, malesuada
-  vel tincidunt non, varius eu mi.
+description: description description description description description description description description description description description description description description description description description description description description
 slug: welcome-to-jekyll-materialize
 tags: []
 draft: false
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in orci tristique, tempus nulla vel, varius neque. Vestibulum lobortis laoreet lobortis. Aenean at quam semper, aliquet enim a, placerat sapien. Morbi tortor leo, malesuada vel tincidunt non, varius eu mi. Suspendisse potenti. Nullam malesuada orci ut nulla pellentesque blandit. Nam nibh turpis, pharetra at est in, pellentesque feugiat ante. Vivamus rhoncus at arcu at ultrices. Maecenas vestibulum diam sed felis porttitor, vitae tempor tortor lacinia. Donec eget tempus ligula, non pharetra turpis. Nunc ornare at erat nec aliquam.  
+HOLAAAAAHOLAAAAAHOLAAAAAHOLAAAAA 
+# Test
+## Test 2
+### Test 3
 
+asdfasdfasdf asdfsadf 
+
+* asdfasdf
+* fksjhdfsdf
+ * sdfsdf
+ * asfasdf
+
+
+
+~~~ javascript
+  var s = "JavaScript syntax highlighting";
+  alert(s);
+~~~
+
+~~~ py
+def say_hello():
+    print "Hello world"
+
+say_hello()
+~~~
+
+
+[asdf](http://google.com)
+
+![bg](/assets/images/bg.jpg)
 
 Curabitur sed lorem eu orci consectetur pellentesque. Vestibulum id dui molestie, venenatis quam id, facilisis tortor. Nam quis semper nisl. Proin est lorem, cursus in felis et, imperdiet euismod nisi. Sed vulputate neque laoreet luctus suscipit. Vestibulum ultricies sagittis egestas. Pellentesque in scelerisque nulla. Maecenas pharetra scelerisque ligula fermentum pulvinar. Aenean at sem commodo, consectetur libero vitae, eleifend justo. Phasellus varius non ligula a varius. Aliquam sed lobortis nulla. Nullam eu felis ut mauris feugiat scelerisque ac quis nunc. Curabitur varius sodales velit. In at faucibus dolor. Nullam porta placerat lectus, ut euismod tellus ultrices ac. Fusce ipsum nulla, pulvinar vitae nunc gravida, congue condimentum lectus.  
 

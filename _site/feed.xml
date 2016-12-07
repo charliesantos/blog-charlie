@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlie's Blog</title>
+    <description>Charlemagne Santos lives in San Diego and writes software for Sony</description>
+    <link>http://localhost:3030/</link>
+    <atom:link href="http://localhost:3030/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Dec 2016 21:26:40 -0800</pubDate>
+    <lastBuildDate>Tue, 06 Dec 2016 21:26:40 -0800</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Welcome to Jekyll MaterializeCSS by hugocarreira!</title>
+        <description>&lt;p&gt;HOLAAAAAHOLAAAAAHOLAAAAAHOLAAAAA&lt;/p&gt;
+&lt;h1 id=&quot;test&quot;&gt;Test&lt;/h1&gt;
+&lt;h2 id=&quot;test-2&quot;&gt;Test 2&lt;/h2&gt;
+&lt;h3 id=&quot;test-3&quot;&gt;Test 3&lt;/h3&gt;
+
+&lt;p&gt;asdfasdfasdf asdfsadf&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;asdfasdf&lt;/li&gt;
+  &lt;li&gt;fksjhdfsdf&lt;/li&gt;
+  &lt;li&gt;sdfsdf&lt;/li&gt;
+  &lt;li&gt;asfasdf&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;language-py highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;say_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Hello world&quot;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;say_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://google.com&quot;&gt;asdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/bg.jpg&quot; alt=&quot;bg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Curabitur sed lorem eu orci consectetur pellentesque. Vestibulum id dui molestie, venenatis quam id, facilisis tortor. Nam quis semper nisl. Proin est lorem, cursus in felis et, imperdiet euismod nisi. Sed vulputate neque laoreet luctus suscipit. Vestibulum ultricies sagittis egestas. Pellentesque in scelerisque nulla. Maecenas pharetra scelerisque ligula fermentum pulvinar. Aenean at sem commodo, consectetur libero vitae, eleifend justo. Phasellus varius non ligula a varius. Aliquam sed lobortis nulla. Nullam eu felis ut mauris feugiat scelerisque ac quis nunc. Curabitur varius sodales velit. In at faucibus dolor. Nullam porta placerat lectus, ut euismod tellus ultrices ac. Fusce ipsum nulla, pulvinar vitae nunc gravida, congue condimentum lectus.&lt;/p&gt;
+
+&lt;p&gt;Mauris varius eleifend dolor. Nullam id auctor diam. Ut nibh metus, mattis nec hendrerit a, cursus at lacus. Vivamus volutpat nisi non neque mattis laoreet. Etiam iaculis at risus nec mollis. Etiam faucibus diam risus, nec molestie urna euismod faucibus. Pellentesque lobortis consectetur est, nec luctus felis hendrerit bibendum. Duis est odio, aliquam quis imperdiet id, fermentum vel metus. Aenean posuere lectus id rutrum ornare. Vestibulum viverra sapien neque. Sed auctor vulputate ultricies. Nunc iaculis tincidunt lorem, in dictum tellus faucibus eget.&lt;/p&gt;
+
+&lt;p&gt;Nunc luctus viverra tincidunt. Mauris magna justo, euismod vitae vehicula id, accumsan sit amet tellus. Maecenas nec arcu in lacus vulputate sollicitudin. Sed eget porta diam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur interdum pellentesque ornare. Curabitur convallis ac elit ac porta. Nullam vulputate suscipit neque ut sodales. Nullam in auctor magna. Pellentesque vehicula ligula in sapien lobortis, in fringilla ex suscipit. Nunc eleifend felis arcu, eget scelerisque felis luctus quis.&lt;/p&gt;
+
+&lt;p&gt;Sed ullamcorper condimentum leo a elementum. In lacinia, nibh sit amet consequat dictum, mi sem consequat neque, et egestas velit lectus vel nulla. Vestibulum faucibus enim ut libero pellentesque, quis consectetur lorem pharetra. Vestibulum porttitor risus at lacus varius hendrerit. Proin ac ligula libero. Donec quis sapien vel ex fermentum commodo consectetur id felis. Etiam in ipsum nec massa dictum pellentesque. Cras vestibulum diam eget mi lacinia porta. Donec nec hendrerit velit, eget accumsan nisi. Pellentesque ac velit est. Pellentesque ac quam vulputate, condimentum eros ac, ultricies orci. Morbi ut maximus nunc. Nam sagittis, erat eu ultricies eleifend, lectus quam imperdiet justo, dictum venenatis mauris elit eget metus. Integer viverra justo dolor, quis sollicitudin elit ultricies in. Proin a nulla ipsum.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jun 2016 23:12:29 -0700</pubDate>
+        <link>http://localhost:3030/2016/06/01/welcome-to-jekyll-materialize.html</link>
+        <guid isPermaLink="true">http://localhost:3030/2016/06/01/welcome-to-jekyll-materialize.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
